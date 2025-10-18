@@ -8,4 +8,4 @@ configuring and deploying an NGINX web server, and hosting a custom webpage acce
 The task showcases fundamental DevOps skills such as version control, server setup, and basic web deployment. 
 
 ## 🌐 Deployment Info
-- **Server IP:** _[Add after deployment]_  
+- **Server IP:** http://18.184.176.113/
